@@ -2,7 +2,7 @@
 
 This project generates evocative images from songs by fusing audio features and lyrical semantics into a shared latent space. Rather than producing literal visualizations, the system aims to simulate how music is remembered as impressions, emotions, and associations.
 
-![Example Output Image - Talk Show Host, Radiohead](images/talkshow_image.png)
+![Example Output Image - Talk Show Host, Radiohead](audio_memory/images/talkshow_image.png)
 
 
 ## Overview
