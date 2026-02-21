@@ -55,7 +55,7 @@ The audio acts as a semantic bias, shaping how the lyrics are interpreted, which
 - The model generates a visual output representing the song’s cross-modal memory.
 
 
-## 🎨 Conceptual Motivation
+## Conceptual Motivation
 
 This project explores:
 
